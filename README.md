@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niharika Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
