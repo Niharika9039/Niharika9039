@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niharika Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika9039&label=Profile%20views&color=0e75b6&style=flat" alt="niharika9039" /> </p>
+
+- Know about my experiences [Resume](https://drive.google.com/file/d/1qm34nHnwbZAXmVjl2K-YyTPFu0E_4PMf/view?usp=sharing)
+
+- How to reach me **niharikasharma522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
