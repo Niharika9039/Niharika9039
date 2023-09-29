@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niharika Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<img align="right" alt="code" width="400" src="https://i1.wp.com/china.wherefor.org/wp-content/uploads/2018/07/mobile-development2-2.gif?fit=800%2C600&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika9039&label=Profile%20views&color=0e75b6&style=flat" alt="niharika9039" /> </p>
 
